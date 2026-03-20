@@ -7,7 +7,7 @@ import scipy.io.wavfile as wavfile
 # CONFIG
 # ============================
 
-SONG_NAME = "loonboon"
+SONG_NAME = "test"
 SAMPLES_FOLDER = "tunes"      # folder with key samples: a.wav, w.wav, ..., ;.wav
 KEY_ORDER = ['a','w','s','e','d','f','t','g','y','h','u','j','k','o','l','p',';']
 HOP_LENGTH = 512
